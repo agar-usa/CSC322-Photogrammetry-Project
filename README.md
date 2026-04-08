@@ -1,2 +1,3 @@
 # CSC322-Photogrammetry-Project
-Creating a real-world 3D model using photogrammetry, with short animation in Blender
+Alex Garcia; CSC322 Introduction to Computer Graphics; For May 7 2026
+Creating a real-world 3D model using photogrammetry, with q short animation in Blender.
